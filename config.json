@@ -1,0 +1,23 @@
+{
+  "email": "eladetbot@gmail.com",
+  "password": "jvs21082006",
+  "cid": "CID_028_Athena_Commando_F",
+  "bid": "BID_004_BlackKnight",
+  "eid": "EID_Clapperboard",
+  "pid": "Pickaxe_Lockjaw",
+  "banner": "otherbanner28",
+  "banner_colour": "defaultcolor15",
+  "level": "100",
+  "bp_tier": 999999999,
+  "status": "Youtube: Orix.",
+  "platform": "WIN",
+  "friendaccept": "True",
+  "joinoninvite": "True",
+  "AdminPassword": "0001",
+  "FullAccess": [
+      "EladetWolfYT"
+  ],
+  "BlockList": [
+      "(User's Epic Name)"
+  ]
+}
